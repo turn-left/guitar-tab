@@ -1,7 +1,7 @@
 ## 吉他谱收藏
 
 - [天使-五月天](/docs/天使-五月天.md)
-- [500 miles](/docs/500-miles.md)
+- [Five Hundred Miles](/docs/Five-Hundred-Miles.md)
 
 
 
